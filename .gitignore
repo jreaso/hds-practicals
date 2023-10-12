@@ -1,0 +1,11 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Miscellaneous
+.DS_Store
